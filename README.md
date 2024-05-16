@@ -59,5 +59,6 @@ git clone https://github.com/ValmirBP/JS_Pokedex.git
 
 # website slides
 
-![image](https://github.com/ValmirBP/Weather-app/assets/48802923/584b59b0-c368-4385-9273-409835fb31c6)
+![Screenshot 2024-05-16 112353](https://github.com/ValmirBP/JS_Pokedex/assets/48802923/90d32bf4-7fc2-4c8f-a2eb-2483de5780ec)
+
 
